@@ -98,6 +98,11 @@
 <br/>
 
 <div align="center">
+  <img src="acrade-contributions.svg" width="100%" alt="arcade" />
+</div>
+
+<br/>
+<div align="center">
   <a href="https://www.munawardy.com/">
     <img src="./footer.svg" width="100%" alt="Connect with Munawardy" />
   </a>
