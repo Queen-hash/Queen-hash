@@ -1,0 +1,7 @@
+<svg width="175" height="40" viewBox="0 0 175 40" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect x="0.5" y="0.5" width="174" height="39" rx="10" fill="#161B22" stroke="#30363D" />
+  <circle cx="24" cy="20" r="4" fill="#60A5FA" />
+  <text x="38" y="25" fill="#F0F6FC" font-family="-apple-system, BlinkMacSystemFont, &#39;Segoe UI&#39;, Helvetica, Arial, sans-serif" font-size="13" font-weight="600" letter-spacing="0.3">
+    Visit Portfolio ↗
+  </text>
+</svg>

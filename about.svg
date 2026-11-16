@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="92" viewBox="0 0 900 92" role="img" aria-labelledby="title desc">
+  <title id="title">About Me</title><desc id="desc">Minimal dark section header with blue accent.</desc>
+  <rect width="900" height="92" rx="8" fill="#0D1117"/>
+  <rect x="24" y="23" width="3" height="46" rx="1.5" fill="#58A6FF"/>
+  <text x="44" y="55" fill="#F0F6FC" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="27" font-weight="650" letter-spacing="1.2">ABOUT ME</text>
+  <text x="874" y="53" fill="#8B949E" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="12" text-anchor="end" letter-spacing="2">01 / INTRODUCTION</text>
+  <path d="M24 79H876" stroke="#30363D" stroke-width="1"/>
+</svg>
